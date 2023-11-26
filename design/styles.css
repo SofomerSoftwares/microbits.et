@@ -1,0 +1,17 @@
+body{
+    background-color: rgba(209, 209, 209, 0.322);
+    
+}
+
+.background{
+    background-color: white;
+    text-align: center;
+    border-radius: 25px;
+    margin: auto 39rem;
+    padding-bottom: 25px;
+}
+#image{
+    margin-top: 25px;
+    max-width: 50%;
+    border-radius: 20px;
+}
