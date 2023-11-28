@@ -14,7 +14,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here]([https://your-solution-url.com](https://github.com/SofomerSoftwares/SofomerSoft.github.io))
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -30,8 +30,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - CSS Grid
 
 ### What I learned
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
 To see how you can add code snippets, see below:
 
