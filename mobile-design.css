@@ -1,0 +1,47 @@
+body{
+   
+    font-family: Gill Sans, sans-serif;
+    font-weight: 400;
+  
+}
+.main{
+   background-color: hsl(212, 45%, 89%);
+    width:  10cm;
+    height: 19cm;
+    margin: 20rem;
+    padding-top: 3.8cm;
+    position: relative;
+    margin: 40rem;
+  
+   }
+
+ .image-back{
+   width: 7.5cm;
+   height: 12cm;
+   background-color: white;
+   border-radius: 25px;
+   margin-left: 1cm;
+   padding-top: 15px;
+   padding-left: 3px;
+   padding-right: 3px;
+   
+}
+
+
+#image{
+    width: 6.8cm;
+    height: 6.8cm;
+    border-radius: 20px;
+    padding-left: 12px;
+   }
+
+#description{
+   font-size: 15px;
+   padding:0 20px;
+   text-align: center;
+}
+#title{
+    padding: 0 20px;
+    text-align: center;
+    font-size: 20px;
+}
