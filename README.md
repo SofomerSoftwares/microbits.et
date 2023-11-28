@@ -15,7 +15,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: (https://github.com/SofomerSoftwares/SofomerSoft.github.io)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://github.com/SofomerSoftwares/SofomerSoft.github.io)
 
 ## My process
 - I have wrote  html and css separately and link togather and it has two versions
